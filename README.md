@@ -9,4 +9,8 @@ Can be install via link [DoAnChuyenNganh_DeTai160.rar](https://drive.google.com/
 ### Usage
 Read `huongdansudungungdung.docx` to get started.
 ## Project illustration
+#### Home page
 ![image](https://github.com/TruongAn3402/Diagnose-stroke-using-the-KNN-algorithm/assets/161707976/52d3826c-18bf-4799-83b5-3efd95c2e1df)
+#### Diagnostics page
+![image](https://github.com/TruongAn3402/Diagnose-stroke-using-the-KNN-algorithm/assets/161707976/825a3d5a-4f0c-4d83-9a73-7269465567b9)
+#### Diagnostics page
