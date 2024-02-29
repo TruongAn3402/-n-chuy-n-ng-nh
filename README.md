@@ -6,4 +6,4 @@ Our goal was to develop a simple and useful tool that would improve the diagnosi
 ## Getting Started
 ### Dependencies
 ### Executing program
-Use the ''huongdansudungungdung. to get started.
+Please read 'huongdansudungungdung.docx' to get started.
