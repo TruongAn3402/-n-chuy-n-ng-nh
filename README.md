@@ -8,6 +8,8 @@ Our goal was to develop a simple and useful tool that would improve the diagnosi
 Can be install via link [DoAnChuyenNganh_DeTai160.rar](https://drive.google.com/file/d/1-ORoQUnEXfUGZK6ORlA_VJVm1h-wQM6I/view?usp=sharing)
 ### Usage
 Read `huongdansudungungdung.docx` to get started.
+## Technologies Used
+Python, Streamlit, HTML&Css, Bootstrap, JQuery, Javascript, ...
 ## Acknowledgments
 Here are some illustrations
 #### Home page
