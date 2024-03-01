@@ -9,10 +9,5 @@ Can be install via link [DoAnChuyenNganh_DeTai160.rar](https://drive.google.com/
 ### Usage
 Read `huongdansudungungdung.docx` to get started.
 ## Acknowledgments
-These are some illustrations of the project Diagnosis of stroke using the KNN algorithm
-#### Home page
-![image](https://github.com/TruongAn3402/Diagnose-stroke-using-the-KNN-algorithm/assets/161707976/52d3826c-18bf-4799-83b5-3efd95c2e1df)
-#### Diagnostics page
-![image](https://github.com/TruongAn3402/Diagnose-stroke-using-the-KNN-algorithm/assets/161707976/825a3d5a-4f0c-4d83-9a73-7269465567b9)
-#### Diagnostics page
-![image](https://github.com/TruongAn3402/Diagnose-stroke-using-the-KNN-algorithm/assets/161707976/ff171449-989d-4952-ab74-3fc9fa3005f9)
+The project "Diagnose stroke using the KNN algorithm" has successfully built a classification model based on the K-NN algorithm that can be used to support stroke diagnosis. collapse. This model has been found to be highly accurate, with an overall accuracy on the test data set of 95%.
+The high accuracy of this model shows that the K-NN algorithm can be a useful tool to support stroke diagnosis. This model can be used to help doctors more quickly and accurately diagnose stroke, thereby helping to improve treatment effectiveness for patients.
